@@ -5,11 +5,5 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
-
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+Where does the name of the site come from? 
+The name of the site comes from a saying I didn't realize I said all that much. My partner brought it up once indicating that I always say it right before I correct someone. It is a blessing and a curse. I have a very good attention to detail and that is where this saying is a blessing in the way that I use it to improve a process or action that is being perfomred. It is a curse in the way that I am always using it to correct or change the way people do things.
