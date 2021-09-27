@@ -1,13 +1,13 @@
-title: "Affiliates"
+title: "so what i do"
 email: dex.getson@gmail.com
 timezone: UTC
 baseurl: "/dexreviewstoys"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/swid_coffee_logo.png'
+favicon: 'assets/images/swid_coffee_favicon.ico'
 author: Dex
 paginate: 30
-disqus: 'Dex Reviews Toys'
+disqus: ''
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -27,9 +27,9 @@ authors:
   Dex:
     name: Dex
     display_name: Dex
-    avatar: 'assets/images/john.png'
-    email: dex.getson@gmail.com
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    avatar: 'assets/images/dex.jpg'
+    email: 'dex.getson@gmail.com'
+    description: 'E-commerce web developer, father, husband and golden doodle caregiver :)'
 
 # Social
 social:
