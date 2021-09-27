@@ -1,7 +1,7 @@
 title: "so what i do"
 email: dex.getson@gmail.com
 timezone: UTC
-baseurl: "/dexreviewstoys"
+baseurl: "/sowhatido"
 permalink: "/:title/"
 logo: 'assets/images/swid_coffee_logo.png'
 favicon: 'assets/images/swid_coffee_favicon.ico'
