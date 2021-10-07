@@ -1,7 +1,8 @@
 title: "so what i do"
+subtitle: 'toy reviews'
 email: dex.getson@gmail.com
 timezone: UTC
-baseurl: "/sowhatido"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/swid_coffee_logo.png'
 favicon: 'assets/images/swid_coffee_favicon.ico'
