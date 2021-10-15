@@ -1,6 +1,6 @@
 title: "so what i do"
 subtitle: ''
-email: dex.getson@gmail.com
+email: info@sowhatido.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
@@ -29,7 +29,7 @@ authors:
     name: Dex
     display_name: Dex
     avatar: 'assets/images/dex.jpg'
-    email: 'dex.getson@gmail.com'
+    email: 'dex@sowhatido.com'
     description: 'E-commerce web developer, father, husband and golden doodle caregiver :)'
 
 # Social
