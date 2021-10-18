@@ -103,6 +103,16 @@ small, .small {
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
 }
+.start-header.show {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 1s linear;
+}
+.start-header.hide {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 1s, opacity 1s linear;
+}
 .navigation-wrap {	
 	width: 100%;
 	top: 0;
