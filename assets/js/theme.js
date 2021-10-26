@@ -4,23 +4,33 @@
 
   $(function () {
     var header = $('.start-style');
+    var startScroll = $(window).scrollTop();;
     $(window).scroll(function () {
       var scroll = $(window).scrollTop();
+      console.log('scrolling:', scroll);
+      console.log('start scroll:', startScroll);
+      var endScroll = $(window).scrollTop();
+      console.log('End Scroll:', endScroll);
+      var difference = endScroll - startScroll;
+      console.log('difference: ', difference);
+      startScroll = scroll;
 
       if (scroll >= 10) {
         header.removeClass('start-style').addClass('scroll-on');
-        header.removeClass('hide');
+        if (difference <= 0) {
+          header.removeClass('hide');
+        } else {
+          // clearTimeout($.data(this, 'scrollTimer'));
+          // $.data(this, 'scrollTimer', setTimeout(function () {
+            if (scroll > 100) {
+              console.log('why is this happening??', scroll);
+              header.addClass('hide');
+            }
+          // }, 250));
+        }
       } else {
         header.removeClass('scroll-on').addClass('start-style');
       }
-
-      clearTimeout($.data(this, 'scrollTimer'));
-      $.data(this, 'scrollTimer', setTimeout(function () {
-        // do something
-        if (scroll >= 10) {
-          header.addClass('hide');
-        }
-      }, 250));
     });
 
 

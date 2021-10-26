@@ -1,5 +1,5 @@
-title: "so what i do"
-subtitle: ''
+title: "So ... What I Do"
+subtitle: "Reviews"
 email: info@sowhatido.com
 timezone: UTC
 baseurl: ""
@@ -21,7 +21,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-1
+ganalytics: G-4638XVMXZJ
 
 # Authors
 authors:
@@ -30,7 +30,7 @@ authors:
     display_name: Dex
     avatar: 'assets/images/dex.jpg'
     email: 'dex@sowhatido.com'
-    description: 'E-commerce web developer, father, husband and golden doodle caregiver :)'
+    description: ''
 
 # Social
 social:
